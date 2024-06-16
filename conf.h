@@ -57,4 +57,4 @@
 #define COLORF		0xECEFF4
 /* BG/FG */
 #define COLORFG		0xD8DEE9
-#define COLORBG	  0x2E3440
+#define COLORBG		0x2E3440
